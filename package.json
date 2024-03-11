@@ -1,5 +1,5 @@
 {
-  "name": "teaaa",
+  "name": "teaMission",
   "version": "1.0.0",
   "description": "new pj",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/karsonemili/teaaa.git"
+    "url": "https://github.com/Varusnguyen/teaMission"
   },
   "dependencies": {
     "minti_fulkerson": "0.1.4"
   },
-  "author": "",
+  "author": "Varusnguyen",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/karsonemili/teaaa/issues"
+    "url": "https://github.com/Varusnguyen/teaMission/issues"
   },
-  "homepage": "https://github.com/karsonemili/teaaa#readme"
+  "homepage": "https://github.com/Varusnguyen/teaMission#readme"
 }
