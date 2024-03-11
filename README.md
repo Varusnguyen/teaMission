@@ -1,2 +1,4 @@
 # teaMission
-This is a program to use for register the Tea Testnet point
+This is a program to use to register the Tea Testnet point
+
+new pj
